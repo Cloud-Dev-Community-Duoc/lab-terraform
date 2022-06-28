@@ -3,7 +3,7 @@ Este Lab tiene por objetivo enseñar el uso de Terraform, esta especificamente d
 
 ## Modo de Uso
 
-Dentro de directorio "01"
+### Dentro de directorio "01"
 
 * Ingresar al LAB de AWS iniciar el LAB "AWS Academy Learner Lab - Foundation Services"
 * Seleccionar "Modules"
@@ -24,6 +24,11 @@ Dentro de directorio "01"
 ``terraform apply``
     En este proceso nos pedira la confirmacion indicando "yes"
 * Una vez generado esperaremos un par de minutos y estara creada nuestra infraestructura
+
+### Dentro de directorio "02"
+Aqui aumentamos un poco mas el proceso y usamos mas variables dentro de la creacion de recursos llamamos desde el main.tf las variable definidas dentro del terraform.tfvars y cada vez se vuelve mas indispensable y util este archivo al momento de mantener el orden y estructura.
+
+Aqui tambien agregamos la variable de cantidad la cual nos indica la cantidad de recursos los cuales podemos crear de las mismas caracteristicas, aqui podemos jugar con las variables para crear maquinas con otros parametros.
 
 ### Links de Interes
 - [terraform.io](terraform.io)

@@ -30,5 +30,8 @@ Aqui aumentamos un poco mas el proceso y usamos mas variables dentro de la creac
 
 Aqui tambien agregamos la variable de cantidad la cual nos indica la cantidad de recursos los cuales podemos crear de las mismas caracteristicas, aqui podemos jugar con las variables para crear maquinas con otros parametros.
 
+### Dentro de directorio "04"
+Trabajo en progreso si quiere aportar en este trabajo lo invito a colaborar la idea es que se trabaje en la rama main y luego hagamos Merge desde WIP hacia main. :-
+
 ### Links de Interes
 - [terraform.io](terraform.io)
